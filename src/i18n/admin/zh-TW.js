@@ -89,6 +89,15 @@ export const m = {
   Score: '分數',
   Hint: '提示',
   Source: '來源',
+  Edit_Problem: '編輯題目',
+  Add_Problme: '增加題目',
+  High: '高級',
+  Mid: '中級',
+  Low: '初級',
+  Tag: '標籤',
+  New_Tag: '新增標籤',
+  // ProblemList.vue
+  Contest_Problem_List: '比賽試題列表',
   // Contest.vue
   ContestTitle: '標題',
   ContestDescription: '描述',
@@ -106,5 +115,10 @@ export const m = {
   DashBoardJudge_Server: 'Judge 伺服器',
   HTTPS_Status: 'HTTPS 狀態',
   Force_HTTPS: '強制 HTTPS',
-  CDN_HOST: 'CDN HOST'
+  CDN_HOST: 'CDN HOST',
+  // Login.vue
+  Welcome_to_Login: 'Welcome to Login',
+  GO: 'GO',
+  username: 'username',
+  password: 'password'
 }
