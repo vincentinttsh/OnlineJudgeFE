@@ -13,6 +13,7 @@ export const m = {
   ShareSubmission: '分享提交',
   Problem_List: '試題列表',
   Create_Problem: '增加題目',
+  Add_Problem: '增加題目',
   Export_Import_Problem: '匯入匯出題目',
   Contest: '比賽',
   Contest_List: '比賽列表',
