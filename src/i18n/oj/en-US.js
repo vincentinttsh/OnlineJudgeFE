@@ -2,7 +2,6 @@ export const m = {
   // 404.vue
   Go_Home: 'Go Home',
   // Problem.vue
-  Add_Problem : 'Add problem',
   Description: 'Description',
   Input: 'Input',
   Output: 'Output',
